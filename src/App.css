@@ -22,18 +22,21 @@
 .sidebar h1 {
     color: white;
     font-weight: 700;
-    font-size: 56px;
+    font-size: 3rem;
+    letter-spacing: 6px;
     text-transform: uppercase;
 }
 .sidebar p {
     color: white;
     font-weight: 400;
     margin-top: 10px;
+    font-size: 1.3rem;
+    letter-spacing: 2px;
 }
 
 .map {
     width: 74%;
     height: 100%;
     float: right;
-    background-color: cadetblue;
+    background-color: #e3e3e3;
 }
