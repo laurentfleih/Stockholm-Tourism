@@ -1,0 +1,39 @@
+.App {
+    background-color: #424750;
+    width: 100vw;
+    height: 100vh;
+    padding: 80px;
+}
+
+.container {
+    background-color: blanchedalmond;
+    height: 100%;
+    widows: 100%;
+}
+
+.sidebar {
+    width: 26%;
+    height: 100%;
+    background-image: linear-gradient(to bottom right, #50b8cb , #50cb9b);
+    float: left;
+    padding: 40px;
+}
+
+.sidebar h1 {
+    color: white;
+    font-weight: 700;
+    font-size: 56px;
+    text-transform: uppercase;
+}
+.sidebar p {
+    color: white;
+    font-weight: 400;
+    margin-top: 10px;
+}
+
+.map {
+    width: 74%;
+    height: 100%;
+    float: right;
+    background-color: cadetblue;
+}
